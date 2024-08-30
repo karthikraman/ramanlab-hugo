@@ -5,8 +5,8 @@ category:
   - research
 cover:
   alt: Sengupta2024-Fig1
-  image: /kraman/lab/wp-content/uploads/2024/02/Sengupta2024-Fig1.png
-date: "2024-02-09T11:34:34+00:00"
+  image: Sengupta2024-Fig1.png
+date: 2024-02-09
 tag:
   - microbiome
 title: Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter bugandensis facilitating its persistence and succession in the International Space Station
