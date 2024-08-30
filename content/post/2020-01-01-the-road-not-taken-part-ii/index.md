@@ -3,9 +3,7 @@ author: gayathris
 category:
   - blog
 date: "2020-01-01T10:14:56+00:00"
-guid: https://home.iitm.ac.in/kraman/lab/?p=1324
 title: 'The road not taken: Part II'
-url: /kraman/lab/blog/the-road-not-taken-part-ii/
 
 ---
 **_by Gayathri Sambamoorthy (and Karthik Raman)_**
