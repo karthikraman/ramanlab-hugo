@@ -1,51 +1,86 @@
 ---
-title: 'targetTB: a target identification pipeline for Mycobacterium tuberculosis
-  through an interactome, reactome and genome-scale structural analysis.'
-date: '2008-01-01'
-draft: true
-publishDate: '2024-08-30T15:53:32.293501Z'
+title: 'An example conference paper'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Karthik Raman
-- Kalidas Yeturu
-- Nagasuma Chandra
+  - admin
+  - Robert Ford
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+date: '2013-07-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
 publication_types: ['article-journal']
-abstract: Tuberculosis still remains one of the largest killer infectious diseases,
-  warranting the identification of newer targets and drugs. Identification and validation
-  of appropriate targets for designing drugs are critical steps in drug discovery,
-  which are at present major bottle-necks. A majority of drugs in current clinical
-  use for many diseases have been designed without the knowledge of the targets, perhaps
-  because standard methodologies to identify such targets in a high-throughput fashion
-  do not really exist. With different kinds of 'omics' data that are now available,
-  computational approaches can be powerful means of obtaining short-lists of possible
-  targets for further experimental validation. We report a comprehensive in silico
-  target identification pipeline, targetTB, for Mycobacterium tuberculosis. The pipeline
-  incorporates a network analysis of the protein-protein interactome, a flux balance
-  analysis of the reactome, experimentally derived phenotype essentiality data, sequence
-  analyses and a structural assessment of targetability, using novel algorithms recently
-  developed by us. Using flux balance analysis and network analysis, proteins critical
-  for survival of M. tuberculosis are first identified, followed by comparative genomics
-  with the host, finally incorporating a novel structural analysis of the binding
-  sites to assess the feasibility of a protein as a target. Further analyses include
-  correlation with expression data and non-similarity to gut flora proteins as well
-  as 'anti-targets' in the host, leading to the identification of 451 high-confidence
-  targets. Through phylogenetic profiling against 228 pathogen genomes, shortlisted
-  targets have been further explored to identify broad-spectrum antibiotic targets,
-  while also identifying those specific to tuberculosis. Targets that address mycobacterial
-  persistence and drug resistance mechanisms are also analysed. The pipeline developed
-  provides rational schema for drug target identification that are likely to have
-  high rates of success, which is expected to save enormous amounts of money, resources
-  and time in the drug discovery process. A thorough comparison with previously suggested
-  targets in the literature demonstrates the usefulness of the integrated approach
-  used in our study, highlighting the importance of systems-level analyses in particular.
-  The method has the potential to be used as a general strategy for target identification
-  and validation and hence significantly impact most drug discovery programmes.
-featured: false
-publication: '*BMC systems biology*'
-tags:
-- mycobacteria myown target_identification
-doi: 10.1186/1752-0509-2-109
-links:
-- name: URL
-  url: http://dx.doi.org/10.1186/1752-0509-2-109
+
+# Publication name and optional abbreviated publication name.
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
 
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
