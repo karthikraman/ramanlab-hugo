@@ -1,0 +1,43 @@
+---
+title: Probing patterning in microbial consortia with a cellular automaton for spatial
+  organisation
+date: '2022-10-01'
+draft: true
+publishDate: '2024-08-30T15:53:27.521396Z'
+authors:
+- Sankalpa Venkatraghavan
+- Sathvik Anantakrishnan
+- Karthik Raman
+publication_types:
+- '2'
+abstract: Microbial consortia exhibit spatial patterning across diverse environments.
+  Since probing the self-organization of natural microbial communities is limited
+  by their inherent complexity, synthetic models have emerged as attractive alternatives.
+  In this study, we develop novel frameworks of bacterial communication and explore
+  the emergent spatiotemporal organization of microbes. Specifically, we built quorum
+  sensing-mediated models of microbial growth that are utilized to characterize the
+  dynamics of communities from arbitrary initial configurations and establish the
+  effectiveness of our communication strategies in coupling the growth rates of microbes.
+  Our simulations indicate that the behavior of quorum sensing-coupled consortia can
+  be most effectively modulated by the rates of secretion of acyl homoserine lactones.
+  Such a mechanism of control enables the construction of desired relative populations
+  of constituent species in spatially organized populations. Our models accurately
+  recapitulate previous experiments that have investigated pattern formation in synthetic
+  multi-cellular systems. Additionally, our software tool enables the easy implementation
+  and analysis of our frameworks for a variety of initial configurations and simplifies
+  the development of sophisticated gene circuits facilitating distributed computing.
+  Overall, we demonstrate the potential of spatial organization as a tunable parameter
+  in synthetic biology by introducing a communication paradigm based on the location
+  and strength of coupling of microbial strains.
+featured: false
+publication: '*Scientific Reports*'
+tags:
+- Computational biology and bioinformatics
+- Microbiology
+- Systems biology
+doi: 10.1038/s41598-022-20705-7
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41598-022-20705-7
+---
+
