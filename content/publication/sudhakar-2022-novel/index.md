@@ -8,8 +8,7 @@ authors:
 - Malvika Sudhakar
 - Raghunathan Rengaswamy
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: An emergent area of cancer genomics is the identification of driver genes.
   Driver genes confer a selective growth advantage to the cell. While several driver
   genes have been discovered, many remain undiscovered, especially those mutated at

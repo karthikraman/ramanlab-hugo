@@ -9,8 +9,7 @@ authors:
 - Lars M. Blank
 - Smita Srivastava
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbial co-cultures have been used in several biotechnological applications.
   Within these co-cultures, the microorganisms tend to interact with each other and
   perform complex actions. Investigating metabolic interactions in microbial co-cultures

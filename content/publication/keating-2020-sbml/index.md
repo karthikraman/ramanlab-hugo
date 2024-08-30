@@ -58,8 +58,7 @@ authors:
 - John C Doyle
 - Michael Hucka
 - SBML Level 3 Community members
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Abstract Systems biology has experienced dramatic growth in the number,
   size, and complexity of computational models. To reproduce simulation results and
   reuse models, researchers must exchange unambiguous model descriptions. We review

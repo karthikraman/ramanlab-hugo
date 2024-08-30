@@ -8,8 +8,7 @@ authors:
 - Karthik Raman
 - Rohit Vashisht
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Tuberculosis continues to be a major health challenge, warranting the need
   for newer strategies for therapeutic intervention and newer approaches to discover
   them. Here, we report the identification of efficient metabolism disruption strategies

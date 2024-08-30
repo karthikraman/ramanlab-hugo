@@ -13,8 +13,7 @@ authors:
 - Karthik Raman
 - Amit Singh
 - Varadharajan Sundaramurthy
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Intracellular pathogens commonly manipulate the host lysosomal system for
   their survival. However, whether this pathogen-induced alteration affects the organization
   and functioning of the lysosomal system itself is not known. Here, using in vitro

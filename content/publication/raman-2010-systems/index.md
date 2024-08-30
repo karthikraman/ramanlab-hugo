@@ -8,8 +8,7 @@ authors:
 - Karthik Raman
 - Ashwini G. Bhat
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The complex web of interactions between the host immune system and the pathogen
   determines the outcome of any infection. A computational model of this interaction
   network, which encodes complex interplay among host and bacterial components, forms

@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Constructing biological networks capable of performing specific biological
   functionalities has been of sustained interest in synthetic biology. Adaptation
   is one such ubiquitous functional property, which enables every living organism

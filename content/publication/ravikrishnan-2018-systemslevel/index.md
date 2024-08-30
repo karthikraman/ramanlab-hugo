@@ -6,7 +6,7 @@ publishDate: '2024-08-30T15:53:31.168274Z'
 authors:
 - Aarthi Ravikrishnan
 - Karthik Raman
-publication_types:
+publication_types: ['article-journal']
 - '5'
 abstract: ''
 featured: false

@@ -7,8 +7,7 @@ authors:
 - G Sambamoorthy
 - H Sinha
 - K Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microorganisms are ubiquitous and adapt to various dynamic environments
   to sustain growth. These adaptations accumulate, generating new traits forming the
   basis of evolution. Organisms adapt at various levels, such as gene regulation,

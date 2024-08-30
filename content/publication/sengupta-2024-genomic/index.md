@@ -11,8 +11,7 @@ authors:
 - Nitin Kumar Singh
 - Karthik Raman
 - Kasthuri Venkateswaran
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The International Space Station (ISS) stands as a testament to human achievement
   in space exploration. Despite its highly controlled environment, characterised by
   microgravity, increased CO$$_2$$levels, and elevated solar radiation, microorganisms

@@ -8,8 +8,7 @@ authors:
 - Anuja Kulkarni
 - Laxmi Ananthanarayan
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: ' First study reported on identification of putative allergens in chickpea
   using in silico approaches Seven novel putative allergens from chickpea (Cicer arietinum)
   have been identified, based on sequence, structural and physicochemical similarities.

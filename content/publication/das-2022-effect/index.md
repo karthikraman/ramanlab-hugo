@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:27.763132Z'
 authors:
 - M. Sai Saranga Das
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The vulnerability of networks to targeted attacks is an issue of widespread
   interest for policymakers, military strategists, network engineers and systems biologists
   alike. Current approaches to circumvent targeted attacks seek to increase the robustness

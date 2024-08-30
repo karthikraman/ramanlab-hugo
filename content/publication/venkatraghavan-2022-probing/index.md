@@ -8,8 +8,7 @@ authors:
 - Sankalpa Venkatraghavan
 - Sathvik Anantakrishnan
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbial consortia exhibit spatial patterning across diverse environments.
   Since probing the self-organization of natural microbial communities is limited
   by their inherent complexity, synthetic models have emerged as attractive alternatives.

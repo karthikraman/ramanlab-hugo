@@ -8,8 +8,7 @@ authors:
 - Shayantan Banerjee
 - Karthik Raman
 - Balaraman Ravindran
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Identifying cancer-causing mutations from sequenced cancer genomes hold
   much promise for targeted therapy and precision medicine. ``Driver'' mutations are
   primarily responsible for cancer progression, while ``passengers'' are functionally

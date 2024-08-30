@@ -8,7 +8,7 @@ authors:
 - Karthik Raman
 - Kalidas Yeturu
 - Nagasuma Chandra
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 abstract: Tuberculosis still remains one of the largest killer infectious diseases,
   warranting the identification of newer targets and drugs. Identification and validation
   of appropriate targets for designing drugs are critical steps in drug discovery,

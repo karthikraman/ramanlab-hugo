@@ -57,8 +57,7 @@ authors:
 - Adi L. Tarca
 - James C. Costello
 - Marina Sirota
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: $<$h2$>$Summary$<$/h2$><$p$>$Every year, 11% of infants are born preterm
   with significant health consequences, with the vaginal microbiome a risk factor
   for preterm birth. We crowdsource models to predict (1) preterm birth (PTB; $<$37

@@ -8,8 +8,7 @@ authors:
 - A. Pratapa
 - S. Balachandran
 - K. Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Motivation: Synthetic lethal sets are sets of reactions/genes where only
   the simultaneous removal of all reactions/genes in the set abolishes growth of an
   organism. Previous approaches to identify synthetic lethal genes in genome-scale

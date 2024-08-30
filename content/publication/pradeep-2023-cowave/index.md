@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:27.031383Z'
 authors:
 - Melpakkam Pradeep
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The ongoing COVID-19 pandemic has posed a significant global challenge to
   healthcare systems. Every country has seen multiple waves of this disease, placing
   a considerable strain on healthcare resources. Across the world, the pandemic has

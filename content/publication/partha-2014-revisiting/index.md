@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:31.069578Z'
 authors:
 - Raghavendran Partha
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Robustness and evolvability are highly intertwined properties of biological
   systems. The relationship between these properties determines how biological systems
   are able to withstand mutations and show variation in response to them. Computational

@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Establishing a mapping between the emergent biological properties and the
   repository of network structures has been of great relevance in systems and synthetic
   biology. Adaptation is one such biological property of paramount importance that

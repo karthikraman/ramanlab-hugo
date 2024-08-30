@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:32.039712Z'
 authors:
 - Karthik Raman
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Abstract  Systems biology seeks to study biological systems as a whole,
   contrary to the reductionist approach that has dominated biology. Such a view of
   biological systems emanating from strong foundations of molecular level understanding

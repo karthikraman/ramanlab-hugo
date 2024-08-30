@@ -11,8 +11,7 @@ authors:
 - Indumathi Palanikumar
 - Dinesh Kumar Kuppa Baskaran
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microorganisms are ubiquitous in nature and form complex community networks
   to survive in various environments. This community structure depends on numerous
   factors like nutrient availability, abiotic factors like temperature and pH as well

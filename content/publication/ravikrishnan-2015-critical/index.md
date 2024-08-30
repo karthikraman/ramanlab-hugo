@@ -7,8 +7,7 @@ publishDate: '2024-08-30T15:53:30.978246Z'
 authors:
 - Aarthi Ravikrishnan
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Genome-scale metabolic networks have been reconstructed for several organisms.
   These metabolic networks provide detailed information about the metabolism inside
   the cells, coupled with the genomic, proteomic and thermodynamic information. These

@@ -182,8 +182,7 @@ authors:
 - Sven Bergmann
 - Daniel Marbach
 - The DREAM Module Identification Challenge Consortium
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Many bioinformatics methods have been proposed for reducing the complexity
   of large gene or protein networks into relevant subnetworks or modules. Yet, how
   such methods compare to each other in terms of their ability to identify disease-relevant

@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Network architecture plays a crucial role in governing the dynamics of any
   biological network. Further, network structures have been shown to remain conserved
   across organisms for a given phenotype. Therefore, the mapping between network structures

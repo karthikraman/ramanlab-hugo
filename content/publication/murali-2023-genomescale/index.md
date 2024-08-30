@@ -12,8 +12,7 @@ authors:
 - Shyam Kumar Masakapalli
 - Karthik Raman
 - Smita Srivastava
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Camptothecin (CPT) is a vital monoterpene indole alkaloid used in anti-cancer
   therapeutics. It is primarily derived from Camptotheca acuminata and Nothapodytes
   nimmoniana plants that are indigenous to Southeast Asia. Plants have intricate metabolic

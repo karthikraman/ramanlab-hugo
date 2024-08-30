@@ -8,8 +8,7 @@ authors:
 - Prem Jagadeesan
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Computational modelling of biological processes poses multiple challenges
   in each stage of the modelling exercise. Some significant challenges include identifiability,
   precisely estimating parameters from limited data, informative experiments and anisotropic

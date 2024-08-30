@@ -7,8 +7,7 @@ publishDate: '2024-08-30T15:53:32.375323Z'
 authors:
 - Karthik Raman
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: ''
 featured: false
 publication: '*BMC Microbiology*'

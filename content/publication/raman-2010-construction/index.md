@@ -5,8 +5,7 @@ draft: true
 publishDate: '2024-08-30T15:53:31.960948Z'
 authors:
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Protein-protein interactions form the basis for a vast majority of cellular
   events, including signal transduction and transcriptional regulation. It is now
   understood that the study of interactions between cellular macromolecules is fundamental

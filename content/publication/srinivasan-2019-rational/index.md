@@ -9,8 +9,7 @@ authors:
 - Vijayakumar S
 - Karthik Raman
 - Smita Srivastava
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Alpha-tocopherol, an essential dietary supplement, synthesized by photosynthetic
   organisms is the most biologically active antioxidant component of vitamin E in
   humans. Attempts to improve the yield of alpha-tocopherol using plant cell cultures

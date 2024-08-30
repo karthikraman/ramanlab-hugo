@@ -7,8 +7,7 @@ authors:
 - Prem Jagadeesan
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: In data-driven dynamical modeling, precise estimation of the parameters
   of large models from limited data has been considered a challenging task. The precision
   of the parameter estimates is highly dependent upon the information contained in

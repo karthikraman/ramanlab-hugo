@@ -8,8 +8,7 @@ authors:
 - Karthik Raman
 - Preethi Rajagopalan
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Mycobacterium tuberculosis is the focus of several investigations for design
   of newer drugs, as tuberculosis remains a major epidemic despite the availability
   of several drugs and a vaccine. Mycobacteria owe many of their unique qualities

@@ -8,8 +8,7 @@ authors:
 - Vimaladhasan Senthamizhan
 - Balaraman Ravindran
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Essential gene prediction models built so far are heavily reliant on sequence-based
   features, and the scope of network-based features has been narrow. Previous work
   from our group demonstrated the importance of using network-based features for predicting

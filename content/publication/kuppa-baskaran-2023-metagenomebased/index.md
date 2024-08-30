@@ -10,8 +10,7 @@ authors:
 - Zhichao Zhou
 - Karthik Raman
 - Karthik Anantharaman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Deep-sea hydrothermal vents are abundant on the ocean floor and play important
   roles in ocean biogeochemistry. In vent ecosystems such as hydrothermal plumes,
   microorganisms rely on reduced chemicals and gases in hydrothermal fluids to fuel

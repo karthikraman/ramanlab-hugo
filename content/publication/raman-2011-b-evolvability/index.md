@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:31.646416Z'
 authors:
 - Karthik Raman
 - Andreas Wagner
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Biological systems at various levels of organisation exhibit robustness,
   as well as phenotypic variability or evolvability, the ability to evolve novel phenotypes.
   We still know very little about the relationship between robustness and phenotypic

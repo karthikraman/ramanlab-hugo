@@ -6,7 +6,7 @@ publishDate: '2024-08-30T15:53:31.802305Z'
 authors:
 - Karthik Raman
 - Nagasuma Chandra
-publication_types:
+publication_types: ['article-journal']
 - '6'
 abstract: Tuberculosis has been a global health concern for decades and the emergence
   of resistant strains and co-infection with HIV warrant newer approaches to identify

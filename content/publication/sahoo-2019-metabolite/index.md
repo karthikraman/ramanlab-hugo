@@ -16,8 +16,7 @@ authors:
 - K Raman
 - W Miles
 - S V Elchuri
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Retinoblastoma (RB) is a childhood eye cancer. Currently, chemotherapy,
   local therapy, and enucleation are the main ways in which these tumors are managed.
   The present work is the first study that uses constraint-based reconstruction and

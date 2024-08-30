@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:28.649164Z'
 authors:
 - Sahana Gangadharan
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: "An astonishingly diverse biomolecular circuitry orchestrates the functioning\
   \ machinery underlying every living cell. These biomolecules and their circuits\
   \ have been engineered not only for various industrial applications but also to\

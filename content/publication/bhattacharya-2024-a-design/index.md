@@ -8,7 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
+publication_types: ['article-journal']
 - '6'
 abstract: Establishing a mapping between (from and to) the functionality of interest
   and the underlying network structure (design principles) remains a crucial step

@@ -7,8 +7,7 @@ authors:
 - Karthik Raman
 - Preethi Rajagopalan
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The potential of systems-based approaches are increasingly being realised
   in drug discovery, metabolic engineering and related areas. Developments in high-throughput
   experimental techniques and explosion of genomic data have fuelled progress in this

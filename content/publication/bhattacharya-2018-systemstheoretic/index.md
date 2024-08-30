@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Designing biological networks that are capable of achieving specific functionality
   has been of sustained interest in the field of synthetic biology for nearly a decade.
   Adaptation is one such important functionality that is observed in bacterial chemotaxis,

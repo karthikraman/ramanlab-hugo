@@ -10,8 +10,7 @@ authors:
 - Himanshu Sinha
 - Karthik Raman
 - Balaraman Ravindran
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: ''
 featured: false
 publication: '*Frontiers in Genetics*'

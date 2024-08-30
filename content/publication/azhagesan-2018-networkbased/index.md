@@ -8,8 +8,7 @@ authors:
 - Karthik Azhagesan
 - Balaraman Ravindran
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Machine learning approaches to predict essential genes have gained a lot
   of traction in recent years. These approaches predominantly make use of sequence
   and network-based features to predict essential genes. However, the scope of network-based

@@ -7,8 +7,7 @@ authors:
 - Prem Jagadeesan
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: In complex dynamical systems, precise and accurate estimation of parameters
   and quality of predictions depends on the information contained in the experimental
   data. Choosing experimental schemes that maximize information contained in the data

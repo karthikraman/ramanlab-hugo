@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:32.201967Z'
 authors:
 - Karthik Raman
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Systems level modelling and simulations of biological processes are proving
   to be invaluable in obtaining a quantitative and dynamic perspective of various
   aspects of cellular function. In particular, constraint-based analyses of metabolic

@@ -8,8 +8,7 @@ authors:
 - Malvika Sudhakar
 - Raghunathan Rengaswamy
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The progression of tumorigenesis starts with a few mutational and structural
   driver events in the cell. Various cohort-based computational tools exist to identify
   driver genes but require multiple samples to identify less frequently mutated driver

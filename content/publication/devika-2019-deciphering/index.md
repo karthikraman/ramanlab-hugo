@@ -7,8 +7,7 @@ publishDate: '2024-08-30T15:53:29.574252Z'
 authors:
 - N. T. Devika
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Bifidobacteria, the initial colonisers of breastfed infant guts, are considered
   as the key commensals that promote a healthy gastrointestinal tract. However, little
   is known about the key metabolic differences between different strains of these

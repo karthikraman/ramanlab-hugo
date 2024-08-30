@@ -8,8 +8,7 @@ authors:
 - Abinaya Badri
 - Karthik Raman
 - Guhan Jayaraman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Hyaluronan (HA), a glycosaminoglycan with important medical applications,
   is commercially produced from pathogenic microbial sources. The metabolism of HA-producing
   recombinant generally regarded as safe (GRAS) systems needs to be more strategically

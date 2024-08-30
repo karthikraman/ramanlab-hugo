@@ -8,8 +8,7 @@ authors:
 - Maziya Ibrahim
 - Lavanya Raajaraam
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbes propagate and thrive in complex communities, and there are many
   benefits to studying and engineering microbial communities instead of single strains.
   Microbial communities are being increasingly leveraged in biotechnological applications,

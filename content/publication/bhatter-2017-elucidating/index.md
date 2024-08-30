@@ -8,8 +8,7 @@ authors:
 - Purva Bhatter
 - Karthik Raman
 - Vani Janakiraman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbial volatile organic compounds (VOCs) have gained prominence in the
   recent past for their potential use as disease markers. The discovery of microbial
   VOCs has benefited 'difficult to detect' diseases such as tuberculosis (TB). Few

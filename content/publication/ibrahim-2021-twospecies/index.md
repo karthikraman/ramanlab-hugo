@@ -7,8 +7,7 @@ publishDate: '2024-08-30T15:53:28.313263Z'
 authors:
 - Maziya Ibrahim
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbial communities that metabolise pentose and hexose sugars are useful
   in producing high-value chemicals, resulting in the effective conversion of raw
   materials to the product, a reduction in the production cost, and increased yield.

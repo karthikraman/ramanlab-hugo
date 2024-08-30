@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:29.415847Z'
 authors:
 - Gayathri Sambamoorthy
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'MOTIVATION: Genome-scale metabolic models are widely constructed and studied
   for understanding various design principles underlying metabolism, predominantly
   redundancy. Metabolic networks are highly redundant and it is possible to minimise

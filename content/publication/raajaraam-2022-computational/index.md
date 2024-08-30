@@ -7,8 +7,7 @@ publishDate: '2024-08-30T15:53:28.234676Z'
 authors:
 - Lavanya Raajaraam
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microbial production of chemicals is a more sustainable alternative to traditional
   chemical processes. However, the shift to bioprocess is usually accompanied by a
   drop in economic feasibility. Co-production of more than one chemical can improve

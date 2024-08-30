@@ -22,8 +22,7 @@ authors:
 - Barnaby Young
 - Yunn-Hwen Gan
 - Niranjan Nagarajan
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Loss of diversity in the gut microbiome can persist for extended periods
   after antibiotic treatment, impacting microbiome function, antimicrobial resistance
   and probably host health. Despite widespread antibiotic use, our understanding of

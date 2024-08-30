@@ -7,8 +7,7 @@ authors:
 - Aarthi Ravikrishnan
 - Meghana Nasre
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Exhaustive identification of all possible alternate pathways that exist
   in metabolic networks can provide valuable insights into cellular metabolism. With
   the growing number of metabolic reconstructions, there is a need for an efficient

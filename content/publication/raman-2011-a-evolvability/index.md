@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:31.724600Z'
 authors:
 - Karthik Raman
 - Andreas Wagner
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: In biological systems, individual phenotypes are typically adopted by multiple
   genotypes. Examples include protein structure phenotypes, where each structure can
   be adopted by a myriad individual amino acid sequence genotypes. These genotypes

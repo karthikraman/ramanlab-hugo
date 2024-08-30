@@ -9,8 +9,7 @@ authors:
 - Malvika Sudhakar
 - Karthik Raman
 - Lars M. Blank
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The metabolome of an organism depends on environmental factors and intracellular
   regulation and provides information about the physiological conditions. Metabolomics
   helps to understand disease progression in clinical settings or estimate metabolite

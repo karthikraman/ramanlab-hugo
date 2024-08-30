@@ -7,8 +7,7 @@ authors:
 - Aravind Sankar
 - Sayan Ranu
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: ''
 featured: false
 publication: '*Bioinformatics*'

@@ -8,8 +8,7 @@ authors:
 - Karthik Raman
 - Nandita Damaraju
 - Govind K. Joshi
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Protein networks, describing physical interactions as well as functional
   associations between proteins, have been unravelled for many organisms in the recent
   past. Databases such as the STRING provide excellent resources for the analysis

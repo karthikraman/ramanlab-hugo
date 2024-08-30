@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Biological adaptation, the tendency of every living organism to regulate
   its essential activities in environmental fluctuations, is a well-studied functionality
   in systems and synthetic biology. In this work, we present a generic methodology

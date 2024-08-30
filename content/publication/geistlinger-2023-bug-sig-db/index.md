@@ -26,8 +26,7 @@ authors:
 - Nicola Segata
 - Curtis Huttenhower
 - Levi Waldron
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: The literature of human and other host-associated microbiome studies is
   expanding rapidly, but systematic comparisons among published results of host-associated
   microbiome signatures of differential abundance remain difficult. We present BugSigDB,

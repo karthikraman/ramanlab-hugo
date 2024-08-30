@@ -7,7 +7,7 @@ authors:
 - Karthik Raman
 - Yeturu Kalidas
 - Nagasuma Chandra
-publication_types:
+publication_types: ['article-journal']
 - '6'
 abstract: ''
 featured: false

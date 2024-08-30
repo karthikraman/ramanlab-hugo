@@ -7,8 +7,7 @@ authors:
 - Karthik Raman
 - Preethi Rajagopalan
 - Nagasuma Chandra
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Mycolic acids, which render unique qualities to mycobacteria, are known
   to be important for mycobacterial growth, survival, and pathogenicity. It is of
   interest to understand the evolutionary origins of the mycolic acid pathway (MAP),

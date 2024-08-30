@@ -8,7 +8,7 @@ authors:
 - Vishwesh V. Kulkarni
 - Guy-Bart Stan
 - Karthik Raman
-publication_types:
+publication_types: ['article-journal']
 - '5'
 abstract: 'The complexity of biological systems has intrigued scientists from many
   disciplines and has given birth to the highly influential field of systems biology

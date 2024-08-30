@@ -6,8 +6,7 @@ publishDate: '2024-08-30T15:53:30.255931Z'
 authors:
 - Gayathri Sambamoorthy
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: ''
 featured: false
 publication: '*Bioinformatics*'

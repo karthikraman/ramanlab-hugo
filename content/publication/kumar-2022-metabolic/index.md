@@ -11,8 +11,7 @@ authors:
 - Ceth W. Parker
 - Karthik Raman
 - Kasthuri Venkateswaran
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Recent studies have provided insights into the persistence and succession
   of microbes aboard the International Space Station (ISS), notably the dominance
   of Klebsiella pneumoniae. However, the interactions between the various microbes

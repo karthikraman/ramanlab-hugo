@@ -9,8 +9,7 @@ authors:
 - Karthik Raman
 - Nagasuma R. Chandra
 - Saraswathi Vishveshwara
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Several types of networks, such as transcriptional, metabolic or protein-protein
   interaction networks of various organisms have been constructed, that have provided
   a variety of insights into metabolism and regulation. Here, we seek to exploit the

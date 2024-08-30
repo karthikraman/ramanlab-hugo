@@ -7,7 +7,7 @@ authors:
 - Abinaya Badri
 - Aparajitha Srinivasan
 - Karthik Raman
-publication_types:
+publication_types: ['article-journal']
 - '6'
 abstract: ''
 featured: false

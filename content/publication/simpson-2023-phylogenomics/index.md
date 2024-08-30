@@ -17,8 +17,7 @@ authors:
 - Karthik Raman
 - Christopher E. Mason
 - Kasthuri Venkateswaran
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'With the advent of long-term human habitation in space and on the moon,
   understanding how the built environment microbiome of space habitats differs from
   Earth habitats, and how microbes survive, proliferate and spread in space conditions,

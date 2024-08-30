@@ -7,8 +7,7 @@ authors:
 - Aswathy K. Raghu
 - Indumathi Palanikumar
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Microorganisms exist in large communities of diverse species, exhibiting
   various functionalities. The mammalian gut microbiome, for instance, has the functionality
   of digesting dietary fibre and producing different short-chain fatty acids. Not

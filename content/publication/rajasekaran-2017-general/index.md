@@ -9,8 +9,7 @@ authors:
 - Soundhararajan Gopi
 - Karthik Raman
 - Athi N. Naganathan
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Mutations in the hydrophobic interior of proteins are generally thought
   to weaken the interactions only in their immediate neighborhood. This forms the
   basis of protein engineering-based studies of folding mechanism and function. However,

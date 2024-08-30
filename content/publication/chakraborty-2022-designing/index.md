@@ -7,8 +7,7 @@ authors:
 - Debomita Chakraborty
 - Raghunathan Rengaswamy
 - Karthik Raman
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: Genetic circuit design is a well-studied problem in synthetic biology. Ever
   since the first genetic circuits-the repressilator and the toggle switch-were designed
   and implemented, many advances have been made in this area of research. The current

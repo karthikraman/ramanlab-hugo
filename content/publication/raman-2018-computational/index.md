@@ -9,7 +9,7 @@ authors:
 - Aditya Pratapa
 - Omkar Mohite
 - Shankar Balachandran
-publication_types:
+publication_types: ['article-journal']
 - '6'
 abstract: In this chapter, we describe Fast-SL, an in silico approach to predict synthetic
   lethals in genome-scale metabolic models. Synthetic lethals are sets of genes or
