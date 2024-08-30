@@ -8,7 +8,6 @@ authors:
 - Aparajitha Srinivasan
 - Karthik Raman
 publication_types: ['article-journal']
-- '6'
 abstract: ''
 featured: false
 publication: '*Current Developments in Biotechnology and Bioengineering*'
