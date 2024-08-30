@@ -7,8 +7,7 @@ authors:
 - Karthik Raman
 - Yeturu Kalidas
 - Nagasuma Chandra
-publication_types: ['article-journal']
-- '6'
+publication_types: ['book-chapter']
 abstract: ''
 featured: false
 publication: '*Biological Database Modeling*'

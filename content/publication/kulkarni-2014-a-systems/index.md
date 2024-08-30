@@ -8,8 +8,7 @@ authors:
 - Vishwesh V. Kulkarni
 - Karthik Raman
 - Guy-Bart Stan
-publication_types: ['article-journal']
-- '5'
+publication_types: ['book-chapter']
 abstract: 'The complexity of biological systems has intrigued scientists from many
   disciplines and has given birth to the highly influential field of systems biology
   wherein a wide array of mathematical techniques, such as flux balance analysis,

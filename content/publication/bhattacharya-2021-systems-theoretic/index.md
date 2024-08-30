@@ -8,7 +8,6 @@ authors:
 - Karthik Raman
 - Arun K. Tangirala
 publication_types: ['article-journal']
-- '6'
 abstract: The deduction of design principles for complex biological functionalities
   has been a source of constant interest in the fields of systems and synthetic biology.
   A number of approaches have been adopted, to identify the space of network structures

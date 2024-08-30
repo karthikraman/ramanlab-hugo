@@ -7,7 +7,6 @@ authors:
 - Karthik Raman
 - Nagasuma Chandra
 publication_types: ['article-journal']
-- '6'
 abstract: Tuberculosis has been a global health concern for decades and the emergence
   of resistant strains and co-infection with HIV warrant newer approaches to identify
   anti-tubercular drugs and targets. The availability of many `omics'-scale datasets,

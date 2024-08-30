@@ -8,8 +8,7 @@ authors:
 - Nagasuma Chandra
 - Karthik Raman
 - Nagasuma Chandra
-publication_types: ['article-journal']
-- '0'
+publication_types: ['software']
 abstract: Stoichiometric and constraint-based analyses of metabolic pathways have
   been gaining ground in the recent past with the increase in the quality and number
   of pathway databases available and the curation of genome-scale metabolic models.

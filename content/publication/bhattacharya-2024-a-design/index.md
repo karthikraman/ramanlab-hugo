@@ -8,8 +8,7 @@ authors:
 - Priyan Bhattacharya
 - Karthik Raman
 - Arun K. Tangirala
-publication_types: ['article-journal']
-- '6'
+publication_types: ['book-chapter']
 abstract: Establishing a mapping between (from and to) the functionality of interest
   and the underlying network structure (design principles) remains a crucial step
   toward understanding and design of bio-systems. Perfect adaptation is one such crucial

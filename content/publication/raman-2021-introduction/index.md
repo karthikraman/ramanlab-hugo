@@ -6,8 +6,7 @@ draft: true
 publishDate: '2024-08-30T15:53:28.473450Z'
 authors:
 - Karthik Raman
-publication_types: ['article-journal']
-- '5'
+publication_types: ['book']
 abstract: '\"This is a very comprehensive read that provides a solid base in computational
   biology. The book is structured in 4 parts and 14 chapters which cover all the way
   from the more basic concepts to advanced material, including the state-of-the-art
